@@ -20,5 +20,7 @@ int main()
 
     cout << 'A' - '\0' << endl; // ¿´¿´ A µÄASCIIÂë
 
+    cout << "Hello, Git" << endl;   // Add Git
+
     return 0;
 }
